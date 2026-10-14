@@ -288,4 +288,44 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://jmp2.uk/stvp-GB380000473
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, sport 5
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1, Setanta Sports 1 HD (Série A)
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1, Setanta Sports 2 HD (Série A)
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1, Trace Sports HD
+http://stream.mcquack.net/256/index.m3u8
+#EXTINF:-1, UDAR HD Sport
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1, Viju+ Sport Live HD
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1, LTV 7 HD (Latvia) Sport
+http://stream.mcquack.net/371/index.m3u8
+#EXTINF:-1, SPORT1
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1, SPORT2 Live
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1, SPORT3 HD
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1, SPORT4
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1, Dynamo Kyiv TV HD (Sport)
+http://stream.mcquack.net/396/index.m3u8
+#EXTINF:-1, Go3 Sport 1 (Serie A)
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1, UA Kyiv HD (Sports)
+http://stream.mcquack.net/439/index.m3u8
+#EXTINF:-1, UA Sport HD
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1, SPORT1 Baltic Live
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1, Equalimic HD (Sport)
+http://stream.mcquack.net/485/index.m3u8
+#EXTINF:-1, Maincast Sport
+http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1, OYTBON Sport (Champoins League)
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1, CNOPT Sport
+http://stream.mcquack.net/492/index.m3u8
 
